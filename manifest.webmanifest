@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Flora-Anotomy — ботанический атлас растений",
+  "short_name": "Flora-Anotomy",
+  "description": "Интерактивный ботанический атлас с 600 растениями, фотографиями и советами по уходу.",
+  "lang": "ru",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f8f3",
+  "theme_color": "#f5f8f3",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
